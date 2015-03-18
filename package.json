@@ -1,0 +1,11 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "scripts": {
+    "grab": "node index.js"
+  },
+  "dependencies": {
+    "phantom": "^0.7.2",
+    "phantomjs": "^1.9.16"
+  }
+}
