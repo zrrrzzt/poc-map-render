@@ -5,7 +5,7 @@
     "grab": "node index.js"
   },
   "dependencies": {
-    "phantom": "5.0.2",
+    "phantom": "6.0.0",
     "phantomjs": "2.1.7"
   }
 }
